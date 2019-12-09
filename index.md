@@ -29,7 +29,7 @@ Syntax highlighted code block
 ### Table Test
 
 |  |
-| --- |
+| :---: |
 | Firstname I. Lastname |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
