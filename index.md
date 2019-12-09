@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Some Thoughts on the Use of Word (coming soon)
 
 You can use the [editor on GitHub](https://github.com/dlemire60/dlemire60.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 ### Table Test
 
-| foo | bar |
-| --- | --- |
-| baz | bim |
+|  |
+| --- |
+| Firstname I. Lastname |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
