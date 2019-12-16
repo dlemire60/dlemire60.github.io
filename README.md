@@ -12,3 +12,5 @@ their nature the benefit of applying them increases as document size, complexity
 and editing time increase. I find it beneficial, however, to make a habit of using 
 styles and other good formatting practices even for very short documents because it 
 makes things very predictable.
+
+View the full paper at https://dlemire60.github.io/
