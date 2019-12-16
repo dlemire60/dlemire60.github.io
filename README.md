@@ -1,5 +1,5 @@
 # dlemire60.github.io
-*Some Thoughts on the Use of Word*
+**Some Thoughts on the Use of Word**
 
 a concise guide to extracting maximal value from the _de facto_ word processor
 
