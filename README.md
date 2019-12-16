@@ -14,3 +14,13 @@ styles and other good formatting practices even for very short documents because
 makes things very predictable.
 
 View the full paper at https://dlemire60.github.io/
+
+I hope someone finds this of value, and I’m happy to take suggestions for improvements 
+that anyone may have, either via email or using GitHub mechanisms such as issues and 
+pull requests. My thanks to a number of folks who’ve provided suggestions on previous 
+versions of this document. It’s grown over time, but I’ve tried to keep it from turning 
+into a book.
+
+David Lemire
+
+dlemire60+word @ gmail.com
