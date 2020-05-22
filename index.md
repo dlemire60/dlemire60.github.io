@@ -92,7 +92,7 @@ Styles](#document-structure-a-key-use-of-styles)
 
 [Useful Resources](#useful-resources)
 
-<span id="_Toc471220670" class="anchor"></span>For starters, here’s a
+<span id="_Toc471220670" class="anchor"></u>For starters, here’s a
 link to the PDF of Microsoft’s [Quick Start guide for
 Word 2016](http://download.microsoft.com/download/1/2/6/1269C192-F79E-4918-B737-D828E0522349/WORD%202016%20QUICK%20START%20GUIDE.PDF),
 just so it’s easy to get to.
@@ -163,8 +163,7 @@ Those letters and numbers in black boxes are accelerators: type Alt, W
 and you get the View ribbon, type Alt, N and you get the insert ribbon.
 Once you get to a ribbon, the letter boxes there take you to individual
 functions. For example, as shown below, Alt, N, T equates to
-I<u>n</u>sert,
-<u>T</u>able and brings up the dialog with
+I<u>n</u>sert, <u>T</u>able and brings up the dialog with
 different ways of inserting tables.
 
 ![](img/image4.png)
@@ -196,7 +195,7 @@ Throughout this document, underlined letters are the accelerator keys I
 see when using Word 2016. Since the ribbon interface was added in Word
 2007, sometimes the accelerator letters aren’t part of the label, so for
 those I’ve put the letter in parenthesis; for example:
-Vie<span class="underline">w</span>, Draft (<span class="underline">E</span>).
+Vie<u>w</u>, Draft (<u>E</u>).
 
 There are also a lot of pre-defined keyboard shortcuts wired into Word
 by default (you can change any of these, by the way, or add your own –
@@ -218,8 +217,7 @@ The ultimate shortcut key, of course, is Ctrl‑Z (Undo).
 # Tweak Word To Suit You
 
 Word is highly configurable, and exploring the range of controls
-available under <span class="underline">F</span>ile,
-Op<span class="underline">t</span>ions may help you find places to tweak
+available under <u>F</u>ile, Op<u>t</u>ions may help you find places to tweak
 behavior that you find annoying. Some configuration tweaks I
 particularly recommend:
 
@@ -228,9 +226,8 @@ particularly recommend:
     the time. Typing Undo (Ctrl‑Z) *immediately* after the automated
     change will fix most of these when they happen, but you can turn
     them off entirely. In Word 2016, this is under
-    <span class="underline">F</span>ile,
-    Op<span class="underline">t</span>ions, Proofing, and the
-    <span class="underline">A</span>utocorrect Options… button at the
+    <u>F</u>ile, Op<u>t</u>ions, Proofing, and the
+    <u>A</u>utocorrect Options… button at the
     top of the dialog. The options on the “AutoFormat As You Type” tab
     are where most of the things you want to turn off are located. Most
     of these are pretty obvious. The group in the middle labeled “Apply
@@ -251,8 +248,7 @@ particularly recommend:
     2016 on Windows 7, this file is stored under
     C:\\Users\\\<username\>\\AppData\\Roaming\\Microsoft\\Templates. If
     you want a to change the look of the blank document you get from
-    <span class="underline">F</span>ile,
-    <span class="underline">N</span>ew, you have to
+    <u>F</u>ile, <u>N</u>ew, you have to
     
       - open this file,
       - adjust its default formatting to what you want the most, and
@@ -267,8 +263,8 @@ particularly recommend:
 # Why I Use Draft View
 
 OK, this might be a soapbox thing, too. I use Draft view (Alt,
-Vie<span class="underline">w</span>, Draft
-(<span class="underline">E</span>)) probably 75+% of the time when using
+Vie<u>w</u>, Draft
+(<u>E</u>)) probably 75+% of the time when using
 Word and I think people are missing out by not using it, so here’s some
 of the whys and wherefores of Draft view:
 
@@ -284,8 +280,8 @@ of the whys and wherefores of Draft view:
 
   - If you’re using Draft view, you can also turn on the style view
     column on the left-hand side. To get this, select
-    <span class="underline">F</span>ile,
-    <span class="underline">O</span>ptions, pick the Advanced option,
+    <u>F</u>ile,
+    <u>O</u>ptions, pick the Advanced option,
     scroll down to the Display group, and set the “Style Area pane width
     in Draft and Outline views” value to somewhere around an inch or so.
     Once the pane is visible, you can easily adjust its width with the
@@ -310,9 +306,9 @@ of the whys and wherefores of Draft view:
     amount of content you can get on a screen for any given zoom level,
     and it means the text rewraps to fit the screen as you zoom in and
     out, which I think is pretty handy. This is controlled with the
-    “Show text <span class="underline">w</span>rapped within the
-    document window” setting under <span class="underline">F</span>ile,
-    Op<span class="underline">t</span>ions, Advanced, Show Document
+    “Show text <u>w</u>rapped within the
+    document window” setting under <u>F</u>ile,
+    Op<u>t</u>ions, Advanced, Show Document
     Content group. I particularly like this when projecting a document
     in a meeting, since you can easily get the text big enough on screen
     for folks to read *without any need for horizontal scrolling*.
@@ -324,8 +320,8 @@ footers distracting or space wasting, you can double-click in the space
 between pages on the screen to suppress the display of the white space.
 Double-click on the line between pages again to restore display of the
 headers and footers. This also appears as a control option under
-<span class="underline">F</span>ile,
-Op<span class="underline">t</span>ions, Display.
+<u>F</u>ile,
+Op<u>t</u>ions, Display.
 
 It’s not specific to Draft view, but it’s worth knowing that there are
 some handy built-in zoom settings on the View ribbon or if you click on
@@ -391,8 +387,8 @@ page boundary. Also, Word defaults to allowing table rows to break
 across page boundaries, but I usually turn that off unless I’ve got a
 lot of content in a row, since I prefer to keep the content of each
 individual row on a single page; look for the checkbox labeled “Allow
-row to brea<span class="underline">k</span> across pages” on the Table
-Layout, Properties (Alt, JL, O), <span class="underline">R</span>ow tab
+row to brea<u>k</u> across pages” on the Table
+Layout, Properties (Alt, JL, O), <u>R</u>ow tab
 and clear the check to keep your row contents together on a single page.
 You can apply this to individual rows, or select the whole table (Table
 Layout, Select, Table, (Alt, JL, K, T)) and apply this setting to the
@@ -400,7 +396,7 @@ whole thing.
 
 A possible problem solver: If a table isn’t displaying the way you
 think, check the row properties Table Layout, Properties (Alt, JL, O),
-<span class="underline">R</span>ow tab to see if the row has been set to
+<u>R</u>ow tab to see if the row has been set to
 a specific height. If so, turning that off may help your problem. (Same
 holds for column properties, but you’re more likely to want to lock
 those to particular widths than you are rows to a particular height.)
@@ -413,8 +409,8 @@ graphic as an “object” that can be edited in its native application
 (e.g., PowerPoint) by double-clicking on the object. There are times
 that default behavior gets in the way, rather than helping you. When
 this happens, undo (Ctrl-Z) the paste operation and look at the options
-under Alt, <span class="underline">H</span>ome, Paste (V),
-<span class="underline">S</span>pecial for alternatives. Pasting as
+under Alt, <u>H</u>ome, Paste (V),
+<u>S</u>pecial for alternatives. Pasting as
 “unformatted text” is often handy when you’re moving text from one
 document to another and you want the next text to conform to the
 formatting in the destination document. The options under Paste Special
@@ -424,8 +420,8 @@ Special).
 
 *Paste Text Only*. One of the most useful options under Paste Special is
 Paste Text Only (also available at the top level of paste: Alt,
-<span class="underline">H</span>ome, Paste (V),
-<span class="underline">T</span>ext only). Normally, Windows does its
+<u>H</u>ome, Paste (V),
+<u>T</u>ext only). Normally, Windows does its
 best to preserve the format of things as you copy and paste within or
 among different applications. Sometimes that’s great, sometimes you’re
 rather let the program into which you’re pasting control the formatting.
@@ -448,9 +444,9 @@ quick way to create a table structure is to type the column headers you
 need separated by tabs. Don’t worry if this runs past a single line of
 text, just type column name, \<Tab\>, column name, \<Tab\> until you’ve
 got them all. Then select the line(s) of text you just typed and invoke
-Alt, I<span class="underline">n</span>sert,
-<span class="underline">T</span>able,
-Con<span class="underline">v</span>ert Text to Table (Alt, N, T, V);
+Alt, I<u>n</u>sert,
+<u>T</u>able,
+Con<u>v</u>ert Text to Table (Alt, N, T, V);
 specify to separate text at Tabs and you’ll quickly have a table with
 the columns you defined. You can then tweak the columns widths, format
 the text, etc. Here's a screenshot illustrating the before and after of
@@ -488,10 +484,10 @@ the right edge of that field is a magnifier icon and a tiny triangle.
 Clicking on that triangle exposes a number of advanced search options
 that can help you find what you want more quickly. If you pick the
 “Advanced Find” button in that list, you get the full Find and Replace
-dialog. Clicking the <span class="underline">M</span>ore button there
+dialog. Clicking the <u>M</u>ore button there
 exposes more search features, one of which is formatting. You can search
 for text formatted in particular ways or with a particular style. If you
-leave the “Fi<span class="underline">n</span>d what:” field empty, Word
+leave the “Fi<u>n</u>d what:” field empty, Word
 will find any text with the formatting you specify.
 
 ![](img/image7.png)
@@ -764,7 +760,7 @@ page. Document level formatting is mostly found in the Page Setup group
 of the Layout (P) tab of the Word ribbon. If you need to have different
 page layouts for different parts of the same document, you set that up
 by breaking the document into “sections” (using one of the section break
-types under Layout (P), <span class="underline">B</span>reaks), then
+types under Layout (P), <u>B</u>reaks), then
 formatting each section as desired. Note that section breaks are mostly
 invisible unless you’re either in Draft view or you turn on one of the
 options to show hidden formatting. The figure below shows the way
@@ -817,7 +813,7 @@ the Layout ribbon (Alt, P, SP). To have the rest of the document then
 aligned to the top of the page, you insert a section break of the “next
 page” type after the cover page material, and then format the new
 section accordingly, again using the Page Setup dialog. Section breaks
-are inserted using Layout (P), <span class="underline">B</span>reaks;
+are inserted using Layout (P), <u>B</u>reaks;
 you have the option of making the new section also start on a new page
 by picking the appropriate section break.
 
@@ -826,8 +822,8 @@ making a part of your document 2-column), Word will automatically insert
 “continuous” section breaks around that section.
 
 Note that these sections are a Word thing for specifying the page
-formatting of your document. They have <span class="underline">no
-relationship whatsoever</span> to Sections, Chapters, Volumes, etc., in
+formatting of your document. They have <u>no
+relationship whatsoever</u> to Sections, Chapters, Volumes, etc., in
 a document structure / table-of-contents sense. In other words, they
 pertain to the structure and appearance of the Word document *file*
 rather than the structure of your document *content*. The document file
@@ -851,11 +847,11 @@ Line Number style to something like 8-Point Arial, Calibri or Verdana.
 
 Paragraph formatting is a group on the Home menu. The basic options are
 there; for complete control you’ll need the paragraph formatting dialog
-(Alt, <span class="underline">H</span>ome, Paragraph (PG), or
+(Alt, <u>H</u>ome, Paragraph (PG), or
 right-click in the text you want to alter and pick Paragraph). Paragraph
 formatting controls the appearance of the paragraph, and the flow of
 paragraphs with regard to page breaks. The figure below shows how the
-features of the Paragraph dialog <span class="underline">I</span>ndents
+features of the Paragraph dialog <u>I</u>ndents
 and Spacing tab control the format of paragraphs with regard to the
 overall page format established using the Layout, Page Setup functions.
 
@@ -887,15 +883,15 @@ keep track of the how’s and why’s of your document’s formatting, it’s
 extremely helpful to turn on the display of paragraph marks. You can do
 this by clicking the “Show/Hide” button, but that also turns on the
 display of spaces as dots, which adds distracting screen clutter. A
-better approach is to go to <span class="underline">F</span>ile,
-Op<span class="underline">t</span>ions, select Display and check
-“Paragraph <span class="underline">m</span>arks” in the Formatting
+better approach is to go to <u>F</u>ile,
+Op<u>t</u>ions, select Display and check
+“Paragraph <u>m</u>arks” in the Formatting
 marks group. Turning the view of tabs here can also be very helpful.
 
 I can’t emphasize enough how using the Spacing
-<span class="underline">B</span>efore or Spacing
-A<span class="underline">f</span>ter aspect of para­graph formatting (on
-the <span class="underline">I</span>ndents and Spacing tab) is a much
+<u>B</u>efore or Spacing
+A<u>f</u>ter aspect of para­graph formatting (on
+the <u>I</u>ndents and Spacing tab) is a much
 better way of creating open space between paragraphs than either blank
 lines (which are really empty paragraphs) or line breaks (Shift-Enter)
 that don’t create a new paragraph. This is one of those places where not
@@ -908,7 +904,7 @@ This gives a nice, easily-readable layout without wasting a lot of space
 that’s a standard part of several different document templates
 supplied with Word).
 
-The Line and Page <span class="underline">B</span>reaks tab of the
+The Line and Page <u>B</u>reaks tab of the
 paragraph formatting dialog includes two options, “Keep With Next” and
 “Keep Lines Together”, that are important to managing pagination, but
 easy to confuse. Checking the Keep With Next option tells Word “keep
@@ -963,7 +959,7 @@ appropriately defined Word styles.
 An important related concept: bring up the paragraph formatting dialog
 (Alt, H, PG) and take a look at the Indents and Spacing tab. In the
 upper corner there’s a control labeled
-“<span class="underline">O</span>utline level”. Each paragraph is
+“<u>O</u>utline level”. Each paragraph is
 either associated with a level of document structure from 1 to 9 or is
 identified as “Body Text”. So these outline level settings are used to
 identify section headings from most significant (Level 1) to least
@@ -990,7 +986,7 @@ masse* to alter the look of your document.
 One of Word’s features is the ability to have the definition of a style
 automatically update when you directly format a paragraph of that style.
 In my view, the Automatically Update feature of Style definition is
-***<span class="underline">not</span>***[<sup>14</sup>](#fn14) your
+***<u>not</u>***[<sup>14</sup>](#fn14) your
 friend, *except* when you are first building the set of styles for a
 document template file. If Auto Update is checked, a minor formatting
 tweak in one place in your document can wreak havoc with the whole
@@ -1000,7 +996,7 @@ style: make one paragraph in your document italic, or red, or a
 different font, and suddenly your whole document is italic, or red, or
 in a different font, since virtually every other style is based directly
 or indirectly on the Normal style. In the style formatting dialog
-there’s a check box for “A<span class="underline">u</span>tomatically
+there’s a check box for “A<u>u</u>tomatically
 Update”; you’ll want to uncheck that box so that your styles don’t go
 changing willy-nilly.
 
@@ -1034,8 +1030,8 @@ as follows:
     get a new blacnk document in Word based on that template (basically,
     just a copy of the template that you’ll have to Save As a document).
     If you want to *edit* a template file, you’ll have to launch Word,
-    and use <span class="underline">F</span>ile,
-    <span class="underline">O</span>pen, Browse (O) to find and open the
+    and use <u>F</u>ile,
+    <u>O</u>pen, Browse (O) to find and open the
     template you want to change. You can change the files type setting
     to All Word Templates (\*.DOTX, etc.) to just see templates.
 
@@ -1100,9 +1096,9 @@ most everything, Word is also extraordinarily customizable. At the most
 basic level, you can very easily adjust the content of ribbons to have
 the stuff you actually use conveniently available (either right-click on
 the ribbon background and pick “Customize the
-<span class="underline">R</span>ibbon …” or select Alt,
-<span class="underline">F</span>ile,
-Op<span class="underline">t</span>ions, Customize Ribbon). The details
+<u>R</u>ibbon …” or select Alt,
+<u>F</u>ile,
+Op<u>t</u>ions, Customize Ribbon). The details
 are explained in a Microsoft article [Customize the Ribbon in
 Office](https://support.office.com/en-us/article/Customize-the-ribbon-in-Office-00f24ca7-6021-48d3-9514-a31a460ecb31).
 You can also easily assign your own keyboard shortcuts for instance
@@ -1120,17 +1116,17 @@ has no concept of groups, so they aren’t needed to customize that.
 
 In the customization dialogs for both the Ribbon and the Quick Access
 Toolbar, there is a pull-down called
-“<span class="underline">C</span>hoose Commands From:”, which controls
+“<u>C</u>hoose Commands From:”, which controls
 the display of commands that can be added to the ribbon or toolbar.
 There are quite a few Word commands not exposed on the ribbon interface,
 some of which are quite handy. An example that can be found in the
 ribbon customization dialog by specifying “All Commands” is one that
 automatically tweaks all of the formatting of a document file to shrink
 it by one page; very useful if you’ve overshot by five lines on your
-10-page essay. To find it, select <span class="underline">F</span>ile
-Op<span class="underline">t</span>ions,
-<span class="underline">C</span>ustomize Ribbon…, and pick the
-<span class="underline">C</span>ommands tab. Select “Tools” in the
+10-page essay. To find it, select <u>F</u>ile
+Op<u>t</u>ions,
+<u>C</u>ustomize Ribbon…, and pick the
+<u>C</u>ommands tab. Select “Tools” in the
 categories box on the left, and scroll the list of commands on the right
 down to one named “Shrink One Page”; it’ll be near the bottom of the
 list. Add it to a ribbon as explained in the Microsoft article linked
@@ -1157,7 +1153,7 @@ that’s a big subject, but will offer a couple of notes:
     toolbar.
 
   - The easiest way to create a simple macro is to use the recording
-    function found at Alt, Deve<span class="underline">l</span>oper,
+    function found at Alt, Deve<u>l</u>oper,
     Record Macro. Record a macro, then use the Macros dialog on the
     Developer ribbon, select it and click edit. This will bring up the
     Visual Basic Editor, where you can clean up or extend the recorded
@@ -1345,7 +1341,7 @@ Happy writing.
     <div id="fn14">
     
     Note that word is **bold** *italic*
-    <span class="underline">underline</span>. I really mean
+    <u>underline</u>. I really mean
     it\![](#fnref14)
     
     </div>
