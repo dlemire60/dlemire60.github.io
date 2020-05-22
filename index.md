@@ -162,9 +162,9 @@ With Word 2016, if you tap the Alt key, you’ll see something like this:
 Those letters and numbers in black boxes are accelerators: type Alt, W
 and you get the View ribbon, type Alt, N and you get the insert ribbon.
 Once you get to a ribbon, the letter boxes there take you to individual
-functions. For example, as show below, Alt, N, T equates to
-I<span class="underline">n</span>sert,
-<span class="underline">T</span>able and brings up the dialog with
+functions. For example, as shown below, Alt, N, T equates to
+I<u>n</u>sert,
+<u>T</u>able and brings up the dialog with
 different ways of inserting tables.
 
 ![](img/image4.png)
