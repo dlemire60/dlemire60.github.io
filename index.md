@@ -18,8 +18,7 @@ things very predictable.
 I’m using a current version of Word 2016 on Windows 10 (the whole Office
 365 thing has made "version" a bit ambiguous, IMO). I’ve built up the
 knowledge here over time since using Word 97 (starting from a wonderful
-book called *Word 97 Annoyances*; Woody Loenhard, one of the authors,
-remains an excellent source of MS Office information to this day). The
+book called [*Word 97 Annoyances*](https://github.com/oasis-tcs/openc2-usecases/tree/master/SBOM-PoC); Woody Loenhard, one of the authors, remains an excellent source of MS Office information to this day). The
 details have changed as Word has evolved, but the mindset for how to get
 the most out of the program stays the same. I’d also note that much of
 what’s in here about Word (e.g., keyboard shortcuts) can also be applied
