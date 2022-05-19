@@ -110,7 +110,7 @@ full Page Setup dialog has three tabs that provide additional options
 such as vertical alignment of the page content (on the Layout tab in
 that dialog), which isn’t anywhere on the ribbon.
 
-![](img/image1.png)
+![](img/expand_group.png)
 
 Something else I’ve noticed people seem to overlook: With the ribbon
 interface, Microsoft Office included the concept of a ribbon that only
