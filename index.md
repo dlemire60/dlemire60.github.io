@@ -165,7 +165,7 @@ functions. For example, as shown below, Alt, N, T equates to
 I<u>n</u>sert, <u>T</u>able and brings up the dialog with
 different ways of inserting tables.
 
-![](img/image4.png)
+![](img/insert_tab_example.png)
 
 Accelerators are indicated by black letter boxes on ribbons and
 underlined letters in dialog boxes. If there are lot of functions on a
