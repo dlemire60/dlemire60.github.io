@@ -773,36 +773,23 @@ current versions of Word.)
 ![](img/doc_formatting.png)
 
   - **Layout Tab**
-    
       - Margins
-    
       - Page Orientation
-    
       - Page Size
-    
       - Columns
-    
       - Line Numbering
-    
       - Section Breaks
-    
       - Vertical Alignment (in full Page Setup dialog under Page Setup
         group)
 
   - **Insert Tab**
-    
       - Headers and Footers
-    
       - Page Numbers
 
   - **Design Tab**
-    
       - Page Borders
-    
       - Background Color
-    
       - Watermarks
-    
       - Predefined document styles
 
 So, if you want your new document’s title, date, version, etc., to be
