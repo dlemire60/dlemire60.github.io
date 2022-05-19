@@ -1182,7 +1182,7 @@ Happy writing.
     <div id="fn1">
     
     I’ve never used Word on a Mac, so I have no insight into how
-    applicable this guide is for Mac users.[](#fnref1)
+    applicable this guide is for Mac users.
     
     </div>
 
@@ -1193,7 +1193,7 @@ Happy writing.
     I know this sounds like I’m encouraging you to “think like the
     computer” but I don’t really mean it that way. I’m more suggesting
     that you wouldn’t use the side of hammer to pound your nails, so why
-    use a word processor like a typewriter.[](#fnref2)
+    use a word processor like a typewriter.
     
     </div>
 
@@ -1202,7 +1202,7 @@ Happy writing.
     <div id="fn3">
     
     You’ll also discover that there’s usually *at least* 2 ways to do
-    most things, and sometimes as many as 5 or 6.[](#fnref3)
+    most things, and sometimes as many as 5 or 6.
     
     </div>
 
@@ -1215,7 +1215,7 @@ Happy writing.
     article](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742393\(v=vs.85\).aspx)
     for you. It’s written as guidance for developers but fills you in on
     the terminology and the underlying thinking. The up-front part
-    (first few screens) are plenty for the casual reader.[](#fnref4)
+    (first few screens) are plenty for the casual reader.
     
     </div>
 
@@ -1226,7 +1226,7 @@ Happy writing.
     Some would probably say I’m obsessive about using the keyboard. They
     might well be right. And I have to concede that more recent versions
     of Word have made it a little harder to stay a keyboard
-    fanatic.[](#fnref5)
+    fanatic.
     
     </div>
 
@@ -1238,7 +1238,7 @@ Happy writing.
     infrastructure (VDI), I think this is probably even more true, given
     the visual lag that often occurs on the VDI. That said, I also find
     I can now type considerably ahead of the VDI, which is not an
-    advantage.[](#fnref6)
+    advantage.
     
     </div>
 
@@ -1250,7 +1250,7 @@ Happy writing.
     the window changes, so the ribbon screenshots here are
     approximations to what you will actually see; the important point is
     that the functions are there and the accelerator keys don’t
-    change.[](#fnref7)
+    change.
     
     </div>
 
@@ -1258,7 +1258,7 @@ Happy writing.
     
     <div id="fn8">
     
-    This used to be called the Document Map.[](#fnref8)
+    This used to be called the Document Map.
     
     </div>
 
@@ -1270,7 +1270,7 @@ Happy writing.
     will give you a list of all Word commands. Fair warning: on Word
     2016 that results in a 77-page long table of commands. By way of
     comparison, the keyboard shortcuts table is only 10
-    pages.[](#fnref9)
+    pages.
     
     </div>
 
@@ -1279,7 +1279,7 @@ Happy writing.
     <div id="fn10">
     
     This works in PowerPoint, too, although it’s just a little quirky
-    there depending on whether / what text is selected[](#fnref10)
+    there depending on whether / what text is selected.
     
     </div>
 
@@ -1289,7 +1289,7 @@ Happy writing.
     
     I’m showing my age with this. Long ago, word processors like
     WordPerfect and WordStar used in-line formatting codes. That’s
-    pretty much dinosaur thinking these days.[](#fnref11)
+    pretty much dinosaur thinking these days.
     
     </div>
 
@@ -1297,7 +1297,7 @@ Happy writing.
     
     <div id="fn12">
     
-    Which I think we can all agree is just kind of ugly.[](#fnref12)
+    Which I think we can all agree is just kind of ugly.
     
     </div>
 
@@ -1306,7 +1306,7 @@ Happy writing.
     <div id="fn13">
     
     I have wished for a tool that would print me out a tree of how
-    styles depend on one another.[](#fnref13)
+    styles depend on one another.
     
     </div>
 
@@ -1316,7 +1316,7 @@ Happy writing.
     
     Note that word is **bold** *italic*
     <u>underline</u>. I really mean
-    it\![](#fnref14)
+    it\!
     
     </div>
 
@@ -1327,7 +1327,7 @@ Happy writing.
     Specifically, at <http://wordfaqs.mvps.org/CreateTemplate.htm>; the
     article explains templates in more detail than I do here, and
     explains how to create them in different versions of Word from 2003
-    on.[](#fnref15)
+    on.
     
     </div>
 
