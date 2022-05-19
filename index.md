@@ -120,7 +120,7 @@ when you click on a table or a picture and offer controls specific to
 the selected object. Here is an example of the Picture Tools phantom
 ribbon appearing when a graphic is selected.
 
-![](img/image2.png)
+![](img/phantom_ribbon_example.png)
 
 Selecting one of the phantom ribbons gives you access to a set of
 functions specific to the selected object, such as cropping and
