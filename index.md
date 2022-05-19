@@ -1170,11 +1170,12 @@ most useful computer application book I’d ever read.
 
 Happy writing.
 
+
+# Footnotes
+
 <div class="section footnotes" role="doc-endnotes">
 
 -----
-
-# Footnotes
 
 1.  
     
