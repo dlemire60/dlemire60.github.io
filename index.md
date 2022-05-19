@@ -57,39 +57,24 @@ reasonable to jump around if certain topics catch your eye. But I’ll be
 disappointed if you entirely skip the keyboard shortcuts stuff; you’ll
 be missing out\!
 
-[Ribbons and Phantom Ribbons](#_Toc471220670)
 
-[Keyboard Accelerators &
-Shortcuts](#keyboard-accelerators-shortcuts)
+- [Ribbons and Phantom Ribbons](#ribbons-and-phantom-ribbons)
+- [Keyboard Accelerators & Shortcuts](#keyboard-accelerators--shortcuts)
+- [Tweak Word To Suit You](#tweak-word-to-suit-you)
+- [Why I Use Draft View](#why-i-use-draft-view)
+- [I ♥ Tables](#i--tables)
+- [Some Useful Capabilities You Might Not Know About](#some-useful-capabilities-you-might-not-know-about)
+- [Alternative Ways To Select Text](#alternative-ways-to-select-text)
+- [Some Really, Really Handy Shortcut Keys](#some-really-really-handy-shortcut-keys)
+- [Formatting Fundamentals](#formatting-fundamentals)
+  - [Document Formatting](#document-formatting)
+  - [Paragraph Formatting](#paragraph-formatting)
+  - [Document Structure: A Key Use of Styles](#document-structure-a-key-use-of-styles)
+- [Document Templates & NORMAL.DOTX](#document-templates--normaldotx)
+- [Customizing Word](#customizing-word)
+- [Useful Resources](#useful-resources)
+- [Footnotes](#footnotes)
 
-[Tweak Word To Suit You](#tweak-word-to-suit-you)
-
-[Why I Use Draft View](#why-i-use-draft-view)
-
-[I ♥ Tables](#i-tables)
-
-[Some Useful Capabilities You Might Not Know
-About](#some-useful-capabilities-you-might-not-know-about)
-
-[Alternative Ways To Select Text](#alternative-ways-to-select-text)
-
-[Some Really, Really Handy Shortcut
-Keys](#some-really-really-handy-shortcut-keys)
-
-[Formatting Fundamentals](#formatting-fundamentals)
-
-[Document Formatting](#document-formatting)
-
-[Paragraph Formatting](#paragraph-formatting)
-
-[Document Structure: A Key Use of
-Styles](#document-structure-a-key-use-of-styles)
-
-[Document Templates & NORMAL.DOTX](#document-templates-normal.dotx)
-
-[Customizing Word](#customizing-word)
-
-[Useful Resources](#useful-resources)
 
 For starters, here’s a
 link to the PDF of Microsoft’s [Quick Start guide for
@@ -1188,6 +1173,8 @@ Happy writing.
 <div class="section footnotes" role="doc-endnotes">
 
 -----
+
+# Footnotes
 
 1.  
     
