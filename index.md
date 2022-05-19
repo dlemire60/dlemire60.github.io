@@ -730,8 +730,8 @@ completely consistent. I’m going to tackle it by looking at it three
 ways:
 
   - *Document formatting*, which is where you control things like
-    margins, columns and headers and footers; that is, things the
-    control the look and layout of the page. Documents can be broken
+    margins, columns and headers and footers; that is, things that
+    control the look and layout of the page. Word files can be broken
     into sections, and these aspects of page formatting can vary among
     sections.
 
@@ -740,7 +740,7 @@ ways:
     some aspects of page breaks.
 
   - *Structural formatting*, where you use Heading styles give a
-    document hierarchical structure (sections, subsections,
+    document a hierarchical structure (sections, subsections,
     sub-subsections, and so forth), plus the use of styles in general to
     make all of this easier and more consistent.
 
