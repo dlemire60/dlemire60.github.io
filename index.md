@@ -915,7 +915,7 @@ Spacing After method is used instead of a blank line, then Keep With
 Next will keep the heading and the content together, separated by the
 specified spacing. This concept is illustrated in the following figure.
 
-![](img/image10.png)
+![](img/keep_with_next.png)
 
 ## Document Structure: A Key Use of Styles
 
