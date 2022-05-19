@@ -770,7 +770,7 @@ the various aspects of document/section formatting when you need them.
 direction is wrong, but the text above points to the right places in
 current versions of Word.)
 
-![](img/image8.png)
+![](img/doc_formatting.png)
 
   - **Layout Tab**
     
