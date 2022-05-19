@@ -175,7 +175,7 @@ Alt, (H)ome, AL / AC / AR / AJ, for aligning Left / Center / Right /
 Justified, respectively (admittedly, these start to feel a bit clumsy,
 even to me, but they do let you keep your hands on keyboard).
 
-![](img/image5.png)
+![](img/formatting_accelerators.png)
 
 Note that you must tap the Alt key and type the ribbon selection letter
 even to get to the functions on the currently displayed ribbon. While
