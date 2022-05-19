@@ -841,7 +841,7 @@ features of the Paragraph dialog <u>I</u>ndents
 and Spacing tab control the format of paragraphs with regard to the
 overall page format established using the Layout, Page Setup functions.
 
-![](img/image9.png)
+![](img/paragraph_formatting.png)
 
 Paragraph formatting information is effectively stored in the little
 paragraph symbol (the reversed-P thingy: ¶) at the end of the paragraph.
