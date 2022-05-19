@@ -489,7 +489,7 @@ for text formatted in particular ways or with a particular style. If you
 leave the “Fi<u>n</u>d what:” field empty, Word
 will find any text with the formatting you specify.
 
-![](img/image7.png)
+![](img/advanced_find.png)
 
 *Wildcard Searches*. Another thing the “More” button exposes is a button
 labeled special, which lets you search for things like tabs and
