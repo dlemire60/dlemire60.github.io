@@ -1211,11 +1211,12 @@ Happy writing.
     <div id="fn4">
     
     If you want the skinny on how Microsoft defines the Ribbon
-    interface, here’s [an
-    article](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742393\(v=vs.85\).aspx)
-    for you. It’s written as guidance for developers but fills you in on
-    the terminology and the underlying thinking. The up-front part
-    (first few screens) are plenty for the casual reader.
+    interface, here’s <a
+    href="https://docs.microsoft.com/en-us/windows/win32/uxguide/cmd-ribbons">an
+    article</a> for you. It’s written as guidance for developers
+    but fills you in on the terminology and the underlying
+    thinking. The up-front part (first few screens) are plenty
+    for the casual reader.
     
     </div>
 
