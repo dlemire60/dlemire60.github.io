@@ -156,7 +156,7 @@ Alt, \<letter key\> or (hold) Ctrl‑\<letter key\> to get to a function.
 With Word 2016, if you tap the Alt key, you’ll see something like this:
 [<sup>7</sup>](#fn7)
 
-![](img/image3.png)
+![](img/tab_shortcut_letters.png)
 
 Those letters and numbers in black boxes are accelerators: type Alt, W
 and you get the View ribbon, type Alt, N and you get the insert ribbon.
