@@ -721,10 +721,10 @@ ways:
     sections.
 
   - *Paragraph formatting*, where you control things like indents,
-    justification, line spacing with, before and after paragraphs, and
+    justification, line spacing within, before and after paragraphs, and
     some aspects of page breaks.
 
-  - *Structural formatting*, where you use Heading styles give a
+  - *Structural formatting*, where you use Heading styles to give a
     document a hierarchical structure (sections, subsections,
     sub-subsections, and so forth), plus the use of styles in general to
     make all of this easier and more consistent.
@@ -737,23 +737,25 @@ the document.[<sup>11</sup>](#fn11)
 
 ## Document Formatting
 
-Document formatting controls what pages look like overall. This is where
-you format paper sizes, portrait/landscape orientation, margin widths,
-and a number of other items pertain to the overall look of a printed
-page. Document level formatting is mostly found in the Page Setup group
-of the Layout (P) tab of the Word ribbon. If you need to have different
-page layouts for different parts of the same document, you set that up
-by breaking the document into “sections” (using one of the section break
-types under Layout (P), <u>B</u>reaks), then
-formatting each section as desired. Note that section breaks are mostly
-invisible unless you’re either in Draft view or you turn on one of the
-options to show hidden formatting. The figure below shows the way
-sections make up a document and the list afterward tells where to find
-the various aspects of document/section formatting when you need them.
+Document formatting controls what pages look like overall. This
+is where you format paper sizes, portrait/landscape orientation,
+margin widths, and a number of other items pertain to the overall
+look of a printed page. Document level formatting is mostly found
+in the Page Setup group of the Layout (P) tab of the Word ribbon.
+If you need to have different page layouts for different parts of
+the same document, you set that up by breaking the document into
+“sections” (using one of the section break types under Layout
+(P), <u>B</u>reaks), then formatting each section as desired.
+Note that section breaks are mostly invisible unless you’re
+either in Draft view or you turn on one of the options to show
+hidden formatting. The figure below shows the way sections make
+up a document and the list afterward tells where to find the
+various aspects of document/section formatting when you need
+them.
 
-(NOTE: the following figure needs updating, the File, Page Setup
-direction is wrong, but the text above points to the right places in
-current versions of Word.)
+> (NOTE: the following figure needs updating, the File, Page
+Setup direction is wrong, but the text below points to the right
+places in current versions of Word.)
 
 ![](img/doc_formatting.png)
 
@@ -777,16 +779,17 @@ current versions of Word.)
       - Watermarks
       - Predefined document styles
 
-So, if you want your new document’s title, date, version, etc., to be
-vertically centered on the front page you’d set that using the Layout
-tab of the Page Setup dialog, accessed through the Page Setup group on
-the Layout ribbon (Alt, P, SP). To have the rest of the document then
-aligned to the top of the page, you insert a section break of the “next
-page” type after the cover page material, and then format the new
-section accordingly, again using the Page Setup dialog. Section breaks
-are inserted using Layout (P), <u>B</u>reaks;
-you have the option of making the new section also start on a new page
-by picking the appropriate section break.
+So, if you want your new document’s title, date, version, etc.,
+to be vertically centered on the front page you’d set that using
+the Layout tab of the Page Setup dialog, accessed through the
+Page Setup group on the Layout ribbon (Alt, P, SP). To have the
+rest of the document then aligned to the top of the page, you
+insert a section break of the “next page” type after the cover
+page material, and then format the new section accordingly, again
+using the Page Setup dialog. Section breaks are inserted using
+Layout (P), <u>B</u>reaks; you have the option of making the new
+section also start on a new page by picking the appropriate
+section break.
 
 If you select some text and apply certain kinds of formatting (e.g.,
 making a part of your document 2-column), Word will automatically insert
@@ -803,16 +806,18 @@ to the current page number. You can also print a single section by
 picking “Pages” in the print dialog and entering “s*x*” where “*x*” is
 the section number you want to print.
 
-Line numbering (enormously useful for document review) is under Layout
-(P), Line Numbers (LN), which includes control over if and where line
-numbering gets reset. Unfortunately, that doesn’t give you control over
-the appearance of your line numbers, that’s set with the “Line Number”
-style. Change that style to change the look of line numbers. The default
-“Line Number’” style is simply the default paragraph font and size
-specified in the Normal style; I prefer line numbers to be smaller than
-my text so they’re less obtrusive. Since sans-serif fonts are more
-readable in small sizes, I will typically set the font formatting of the
-Line Number style to something like 8-Point Arial, Calibri or Verdana.
+Line numbering (enormously useful for document review) is under
+Layout (P), Line Numbers (LN), which includes control over if and
+where line numbering gets reset. Unfortunately, that location
+isn't where you control the appearance of your line numbers:
+that’s set with the “Line Number” style. Change that style to
+change the look of line numbers. The default “Line Number’” style
+is simply the default paragraph font and size specified in the
+Normal style; I prefer line numbers to be smaller than my text so
+they’re less obtrusive. Since sans-serif fonts are more readable
+in small sizes, I will typically set the font formatting of the
+Line Number style to something like 8-Point Arial, Calibri or
+Verdana.
 
 ## Paragraph Formatting
 
