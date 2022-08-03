@@ -963,7 +963,8 @@ this maybe sounds a bit confusing and intimidating at first, once you
 play with it a little bit I think you’ll find it makes
 sense [^13].
 
-[^13]: I have wished for a tool that would print me out a tree of howstyles depend on one another.
+[^13]: I have wished for a tool that would print me out a tree of
+    how styles depend on one another.
 
 One good reason to care about styles is that if you’ve got a Word
 document of any length, you probably want to have sections or chapters,
@@ -1001,7 +1002,7 @@ masse* to alter the look of your document.
 One of Word’s features is the ability to have the definition of a style
 automatically update when you directly format a paragraph of that style.
 In my view, the Automatically Update feature of Style definition is
-***<u>not</u>***[^14](#fn14) your
+***<u>not</u>*** [^14] your
 friend, *except* when you are first building the set of styles for a
 document template file. If Auto Update is checked, a minor formatting
 tweak in one place in your document can wreak havoc with the whole
@@ -1014,6 +1015,10 @@ or indirectly on the Normal style. In the style formatting dialog
 there’s a check box for “A<u>u</u>tomatically
 Update”; you’ll want to uncheck that box so that your styles don’t go
 changing willy-nilly.
+
+
+[^14]: Note that word is **bold** *italic* <u>underline</u>. I really mean it\!
+
 
 Learning about paragraph styles is *really* worthwhile. An excellent
 reference is a column by Woody Leonhard called [*Word Styles from the
@@ -1098,11 +1103,17 @@ it very much. If you routinely create documents of each of several
 different types, it may save you a lot of effort to create a template
 for each. There’s an excellent and very thorough article on how to
 create a template available at the Word “Most Valuable Professional” web
-site.[^15](#fn15) Microsoft also has a bunch of templates that
+site [^15]. Microsoft also has a bunch of templates that
 shows up when you do File, New; if you pick one of them you’ll get the
 opportunity to download it and add it to your Word setup. A well-crafted
 template definitely makes creation of consistently formatted documents
 easier.
+
+[^15]: Specifically, at
+    <http://wordfaqs.mvps.org/CreateTemplate.htm> the article
+    explains templates in more detail than I do here, and
+    explains how to create them in different versions of Word
+    from 2003 on.
 
 # Customizing Word
 
@@ -1220,26 +1231,8 @@ Happy writing.
 
 
 
-14. 
-    
-    <div id="fn14">
-    
-    Note that word is **bold** *italic*
-    <u>underline</u>. I really mean
-    it\!
-    
-    </div>
 
-15. 
-    
-    <div id="fn15">
-    
-    Specifically, at <http://wordfaqs.mvps.org/CreateTemplate.htm>; the
-    article explains templates in more detail than I do here, and
-    explains how to create them in different versions of Word from 2003
-    on.
-    
-    </div>
+
 
 
 
