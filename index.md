@@ -38,11 +38,11 @@ I feel obliged to make one “soapbox” comment:
 > worthwhile to explore.
 
 
-[1]: I’ve never used Word on a Mac, so I have no insight into how applicable this guide is for Mac users.
+[^1]: I’ve never used Word on a Mac, so I have no insight into how applicable this guide is for Mac users.
     
-[2]: I know this sounds like I’m encouraging you to “think like the computer” but I don’t really mean it that way. I’m more suggesting that you wouldn’t use the side of hammer to pound your nails, so why use a word processor like a typewriter.
+[^2]: I know this sounds like I’m encouraging you to “think like the computer” but I don’t really mean it that way. I’m more suggesting that you wouldn’t use the side of hammer to pound your nails, so why use a word processor like a typewriter.
     
-[3]: You’ll also discover that there’s usually *at least* 2 ways to do most things, and sometimes as many as 5 or 6.
+[^3]: You’ll also discover that there’s usually *at least* 2 ways to do most things, and sometimes as many as 5 or 6.
 
 
 OK, off the soapbox.
@@ -102,7 +102,7 @@ full Page Setup dialog has three tabs that provide additional options
 such as vertical alignment of the page content (on the Layout tab in
 that dialog), which isn’t anywhere on the ribbon.
 
-[4]: If you want the skinny on how Microsoft defines the Ribbon interface, here’s <a target="_blank" href="https://docs.microsoft.com/en-us/windows/win32/uxguide/cmd-ribbons">an article</a> for you. It’s written as guidance for developers but fills you in on the terminology and the underlying thinking. The up-front part (first few screens) are plenty for the casual reader.
+[^4]: If you want the skinny on how Microsoft defines the Ribbon interface, here’s <a target="_blank" href="https://docs.microsoft.com/en-us/windows/win32/uxguide/cmd-ribbons">an article</a> for you. It’s written as guidance for developers but fills you in on the terminology and the underlying thinking. The up-front part (first few screens) are plenty for the casual reader.
 
 
 ![](img/expand_group.png)
