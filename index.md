@@ -84,9 +84,8 @@ be missing out\!
 - [Footnotes](#footnotes)
 
 
-For starters, here’s a
-link to the PDF of Microsoft’s [Quick Start guide for
-Word 2016](https://download.microsoft.com/download/1/2/6/1269C192-F79E-4918-B737-D828E0522349/Word%20QS.pdf),
+For starters, here’s a link to the PDF of Microsoft’s [Quick
+Start guide for Word 2016](https://download.microsoft.com/download/1/2/6/1269C192-F79E-4918-B737-D828E0522349/Word%20QS.pdf),
 just so it’s easy to get to.
 
 # Ribbons and Phantom Ribbons
