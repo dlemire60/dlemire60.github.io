@@ -38,11 +38,16 @@ I feel obliged to make one “soapbox” comment:
 > worthwhile to explore.
 
 
-[^1]: I’ve never used Word on a Mac, so I have no insight into how applicable this guide is for Mac users.
+[^1]: I’ve never used Word on a Mac, so I have no insight into
+    how applicable this guide is for Mac users.
     
-[^2]: I know this sounds like I’m encouraging you to “think like the computer” but I don’t really mean it that way. I’m more suggesting that you wouldn’t use the side of hammer to pound your nails, so why use a word processor like a typewriter.
+[^2]: I know this sounds like I’m encouraging you to “think like
+    the computer” but I don’t really mean it that way. I’m more
+    suggesting that you wouldn’t use the side of hammer to pound
+    your nails, so why use a word processor like a typewriter.
     
-[^3]: You’ll also discover that there’s usually *at least* 2 ways to do most things, and sometimes as many as 5 or 6.
+[^3]: You’ll also discover that there’s usually *at least* 2 ways
+    to do most things, and sometimes as many as 5 or 6.
 
 
 OK, off the soapbox.
@@ -102,7 +107,13 @@ full Page Setup dialog has three tabs that provide additional options
 such as vertical alignment of the page content (on the Layout tab in
 that dialog), which isn’t anywhere on the ribbon.
 
-[^4]: If you want the skinny on how Microsoft defines the Ribbon interface, here’s <a target="_blank" href="https://docs.microsoft.com/en-us/windows/win32/uxguide/cmd-ribbons">an article</a> for you. It’s written as guidance for developers but fills you in on the terminology and the underlying thinking. The up-front part (first few screens) are plenty for the casual reader.
+[^4]: If you want the skinny on how Microsoft defines the Ribbon
+    interface, here’s <a target="_blank"
+    href="https://docs.microsoft.com/en-us/windows/win32/uxguide/cmd-ribbons">an
+    article</a> for you. It’s written as guidance for developers
+    but fills you in on the terminology and the underlying
+    thinking. The up-front part (first few screens) are plenty
+    for the casual reader.
 
 
 ![](img/expand_group.png)
@@ -146,9 +157,16 @@ using the mouse, not quite getting what you want, and then having to
 backtrack and try again.[^6]
 
 
-[^5]: Some would probably say I’m obsessive about using the keyboard. They might well be right. And I have to concede that more recent versions of Word have made it a little harder to stay a keyboard fanatic.
+[^5]: Some would probably say I’m obsessive about using the
+    keyboard. They might well be right. And I have to concede
+    that more recent versions of Word have made it a little
+    harder to stay a keyboard fanatic.
 
-[^6]: Having now developed some experience using Word on a virtual desktop infrastructure (VDI), I think this is probably even more true, given the visual lag that often occurs on the VDI. That said, I also find I can now type considerably ahead of the VDI, which is not an advantage.
+[^6]: Having now developed some experience using Word on a
+    virtual desktop infrastructure (VDI), I think this is
+    probably even more true, given the visual lag that often
+    occurs on the VDI. That said, I also find I can now type
+    considerably ahead of the VDI, which is not an advantage.
     
 
 Keyboard accelerators are a significant part of gaining speed with the
@@ -158,7 +176,11 @@ With Word 2016, if you tap the Alt key, you’ll see something like this:
 [^7]
 
 
-[^7]: The contents of the ribbon change their appearance when the width of the window changes, so the ribbon screenshots here are approximations to what you will actually see; the important point is that the functions are there and the accelerator keys don’t change.
+[^7]: The contents of the ribbon change their appearance when the
+    width of the window changes, so the ribbon screenshots here
+    are approximations to what you will actually see; the
+    important point is that the functions are there and the
+    accelerator keys don’t change.
 
 
 ![](img/tab_shortcut_letters.png)
@@ -563,7 +585,11 @@ complete list, an article at Laptop Magazine’s website explains how to
 [get a list of all Word keyboard
 shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9].
 
-[^9]: If you look carefully, one small tweak to the process in the articlewill give you a list of all Word commands. Fair warning: on Word 2016 that results in a *77-page long* table of commands. By way of comparison, the keyboard shortcuts table is only 10 pages.
+[^9]: If you look carefully, one small tweak to the process in
+    the articlewill give you a list of all Word commands. Fair
+    warning: on Word 2016 that results in a *77-page long* table
+    of commands. By way of comparison, the keyboard shortcuts
+    table is only 10 pages.
 
 
   - Don’t neglect the basic Windows shortcuts for cut, copy and paste,
@@ -632,7 +658,8 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
     selected text) through lower case, Title Case, ALL CAPITALS, and
     back to lower case [^10].
 
-[^10]: This works in PowerPoint, too, although it’s just a little quirky there depending on whether / what text is selected.
+[^10]: This works in PowerPoint, too, although it’s just a little
+    quirky there depending on whether / what text is selected.
 
 
 
@@ -766,7 +793,9 @@ think in terms of formatting a section or paragraph as a thing, rather
 than in terms of inserting a formatting code at a particular location in
 the document [^11].
 
-[^11]: I’m showing my age with this. Long ago, word processors like WordPerfect and WordStar used in-line formatting codes. That’s pretty much dinosaur thinking these days.
+[^11]: I’m showing my age with this. Long ago, word processors
+    like WordPerfect and WordStar used in-line formatting codes.
+    That’s pretty much dinosaur thinking these days.
 
 
 ## Document Formatting
@@ -1017,7 +1046,8 @@ Update”; you’ll want to uncheck that box so that your styles don’t go
 changing willy-nilly.
 
 
-[^14]: Note that word is **bold** *italic* <u>underline</u>. I really mean it\!
+[^14]: Note that word is **bold** *italic* <u>underline</u>. I
+    really mean it\!
 
 
 Learning about paragraph styles is *really* worthwhile. An excellent
