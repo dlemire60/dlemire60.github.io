@@ -92,7 +92,7 @@ just so it’s easy to get to.
 # Ribbons and Phantom Ribbons
 
 Microsoft calls the controls bar across the top of the page the
-Ribbon.[<sup>4</sup>](#fn4) One thing to note about the ribbon is that
+Ribbon[^4]. One thing to note about the ribbon is that
 each tab (Home, Insert, etc.) is broken into groups, and many groups
 have a small arrow at the lower right corner. The Page Setup group on
 the Layout ribbon is shown below as an example. Clicking that little
@@ -102,6 +102,9 @@ number of things that aren’t included on the ribbon. For example, the
 full Page Setup dialog has three tabs that provide additional options
 such as vertical alignment of the page content (on the Layout tab in
 that dialog), which isn’t anywhere on the ribbon.
+
+[4]: If you want the skinny on how Microsoft defines the Ribbon interface, here’s <a target="_blank" href="https://docs.microsoft.com/en-us/windows/win32/uxguide/cmd-ribbons">an article</a> for you. It’s written as guidance for developers but fills you in on the terminology and the underlying thinking. The up-front part (first few screens) are plenty for the casual reader.
+
 
 ![](img/expand_group.png)
 
@@ -1192,19 +1195,7 @@ Happy writing.
 
     
 
-4.  
-    
-    <div id="fn4">
-    
-    If you want the skinny on how Microsoft defines the Ribbon
-    interface, here’s <a target="_blank" 
-    href="https://docs.microsoft.com/en-us/windows/win32/uxguide/cmd-ribbons">an
-    article</a> for you. It’s written as guidance for developers
-    but fills you in on the terminology and the underlying
-    thinking. The up-front part (first few screens) are plenty
-    for the casual reader.
-    
-    </div>
+
 
 5.  
     
