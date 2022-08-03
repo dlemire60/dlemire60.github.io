@@ -764,7 +764,10 @@ Word stores formatting *with* the item it applies to: the document,
 section, or paragraph. To really *get* Word formatting, you have to
 think in terms of formatting a section or paragraph as a thing, rather
 than in terms of inserting a formatting code at a particular location in
-the document.[^11](#fn11)
+the document [^11].
+
+[^11]: I’m showing my age with this. Long ago, word processors like WordPerfect and WordStar used in-line formatting codes. That’s pretty much dinosaur thinking these days.
+
 
 ## Document Formatting
 
@@ -931,10 +934,13 @@ blank line, followed by the first paragraph in the section, then an
 automated page break can fall between the heading and the text, even
 when the heading style has the Keep With Next formatting attribute set.
 The result is that your heading will be at the bottom of one page and
-the text it heads on the top of the next.[^12](#fn12) If the
+the text it heads on the top of the next [^12]. If the
 Spacing After method is used instead of a blank line, then Keep With
 Next will keep the heading and the content together, separated by the
 specified spacing. This concept is illustrated in the following figure.
+
+[^12]: Which I think we can all agree is just kind of ugly.
+
 
 ![](img/keep_with_next.png)
 
@@ -955,7 +961,9 @@ heading and body text styles will change typeface accordingly because
 they’re based on Normal, but keep their own additional formatting. While
 this maybe sounds a bit confusing and intimidating at first, once you
 play with it a little bit I think you’ll find it makes
-sense.[^13](#fn13)
+sense [^13].
+
+[^13]: I have wished for a tool that would print me out a tree of howstyles depend on one another.
 
 One good reason to care about styles is that if you’ve got a Word
 document of any length, you probably want to have sections or chapters,
@@ -1209,32 +1217,8 @@ Happy writing.
 
 
 
-11. 
-    
-    <div id="fn11">
-    
-    I’m showing my age with this. Long ago, word processors like
-    WordPerfect and WordStar used in-line formatting codes. That’s
-    pretty much dinosaur thinking these days.
-    
-    </div>
 
-12. 
-    
-    <div id="fn12">
-    
-    Which I think we can all agree is just kind of ugly.
-    
-    </div>
 
-13. 
-    
-    <div id="fn13">
-    
-    I have wished for a tool that would print me out a tree of how
-    styles depend on one another.
-    
-    </div>
 
 14. 
     
