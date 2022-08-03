@@ -461,13 +461,16 @@ this technique.
 I can then place the cursor in the last cell, hit the tab key to create
 a blank next row, and I’m ready to start capturing an address list.
 
-*Navigation Pane*.[^8](#fn8) If you’ve formatted your document
+*Navigation Pane*.[^8] If you’ve formatted your document
 using Heading styles for your section and subsection headings, the
 Navigation Pane (View, Navigation Pane (Alt, W, K) will (1) quickly show
 you the document structure, and (2) let you jump to any heading in the
 document by clicking on it in the headings list. Click on any heading in
 the Navigation Pane and the document view will jump to that point. This
 is enormously handy for quickly navigating around a big document.
+
+[^8]:  This used to be called the Document Map.
+
 
 *Drag’n’Drop A Copy*. You probably know that if you’ve got text
 selected, you can drag and drop with the mouse to move it. But if you
@@ -558,7 +561,10 @@ following list is based on the principle that it’s worth learning a few
 keyboard shortcuts to gain a notable amount of efficiency. If you want a
 complete list, an article at Laptop Magazine’s website explains how to
 [get a list of all Word keyboard
-shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9](#fn9).
+shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9].
+
+[^9]: If you look carefully, one small tweak to the process in the articlewill give you a list of all Word commands. Fair warning: on Word 2016 that results in a 77-page long table of commands. By way of comparison, the keyboard shortcuts table is only 10 pages.
+
 
   - Don’t neglect the basic Windows shortcuts for cut, copy and paste,
     as these alone can save a lot of time:
@@ -624,7 +630,12 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
 
   - Shift-F3 toggles the word your cursor is in (or the currently
     selected text) through lower case, Title Case, ALL CAPITALS, and
-    back to lower case.[^10](#fn10)
+    back to lower case [^10].
+
+[^10]: This works in PowerPoint, too, although it’s just a little quirky there depending on whether / what text is selected.
+
+
+
 
   - Shift-F1 toggles visibility of the Reveal Formatting pane.
 
@@ -1197,43 +1208,6 @@ Happy writing.
 
 
 
-    
-
-
-
-
-
-
-
-
-8.  
-    
-    <div id="fn8">
-    
-    This used to be called the Document Map.
-    
-    </div>
-
-9.  
-    
-    <div id="fn9">
-    
-    If you look carefully, one small tweak to the process in the article
-    will give you a list of all Word commands. Fair warning: on Word
-    2016 that results in a 77-page long table of commands. By way of
-    comparison, the keyboard shortcuts table is only 10
-    pages.
-    
-    </div>
-
-10. 
-    
-    <div id="fn10">
-    
-    This works in PowerPoint, too, although it’s just a little quirky
-    there depending on whether / what text is selected.
-    
-    </div>
 
 11. 
     
