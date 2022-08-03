@@ -135,7 +135,7 @@ ribbon.
 
 While most folks I’ve watched rely heavily on the mouse, I use the
 keyboard. A lot. It’s probably more accurate to state that I use the
-keyboard for everything I possibly can. [<sup>5</sup>](#fn5) I like the
+keyboard for everything I possibly can [^5]. I like the
 keyboard because it speeds things up enormously; I’ve lost track of the
 number of times I’ve been asked how I did something so quickly and the
 keyboard is almost always how. Apparently my brain is well-suited to
@@ -143,13 +143,23 @@ absorbing keyboard shortcuts, but I really think most folks can benefit
 from them. Using the keyboard is also more *accurate* than mousing
 around, so it can also save you time by keeping you from wasting time
 using the mouse, not quite getting what you want, and then having to
-backtrack and try again.[<sup>6</sup>](#fn6)
+backtrack and try again.[^6]
+
+
+[^5]: Some would probably say I’m obsessive about using the keyboard. They might well be right. And I have to concede that more recent versions of Word have made it a little harder to stay a keyboard fanatic.
+
+[^6]: Having now developed some experience using Word on a virtual desktop infrastructure (VDI), I think this is probably even more true, given the visual lag that often occurs on the VDI. That said, I also find I can now type considerably ahead of the VDI, which is not an advantage.
+    
 
 Keyboard accelerators are a significant part of gaining speed with the
 keyboard. Pretty much everywhere in Word you can use (tap & release)
 Alt, \<letter key\> or (hold) Ctrl‑\<letter key\> to get to a function.
 With Word 2016, if you tap the Alt key, you’ll see something like this:
-[<sup>7</sup>](#fn7)
+[^7]
+
+
+[^7]: The contents of the ribbon change their appearance when the width of the window changes, so the ribbon screenshots here are approximations to what you will actually see; the important point is that the functions are there and the accelerator keys don’t change.
+
 
 ![](img/tab_shortcut_letters.png)
 
@@ -451,7 +461,7 @@ this technique.
 I can then place the cursor in the last cell, hit the tab key to create
 a blank next row, and I’m ready to start capturing an address list.
 
-*Navigation Pane*.[<sup>8</sup>](#fn8) If you’ve formatted your document
+*Navigation Pane*.[^8](#fn8) If you’ve formatted your document
 using Heading styles for your section and subsection headings, the
 Navigation Pane (View, Navigation Pane (Alt, W, K) will (1) quickly show
 you the document structure, and (2) let you jump to any heading in the
@@ -548,7 +558,7 @@ following list is based on the principle that it’s worth learning a few
 keyboard shortcuts to gain a notable amount of efficiency. If you want a
 complete list, an article at Laptop Magazine’s website explains how to
 [get a list of all Word keyboard
-shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[<sup>9</sup>](#fn9).
+shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9](#fn9).
 
   - Don’t neglect the basic Windows shortcuts for cut, copy and paste,
     as these alone can save a lot of time:
@@ -614,7 +624,7 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[<s
 
   - Shift-F3 toggles the word your cursor is in (or the currently
     selected text) through lower case, Title Case, ALL CAPITALS, and
-    back to lower case.[<sup>10</sup>](#fn10)
+    back to lower case.[^10](#fn10)
 
   - Shift-F1 toggles visibility of the Reveal Formatting pane.
 
@@ -743,7 +753,7 @@ Word stores formatting *with* the item it applies to: the document,
 section, or paragraph. To really *get* Word formatting, you have to
 think in terms of formatting a section or paragraph as a thing, rather
 than in terms of inserting a formatting code at a particular location in
-the document.[<sup>11</sup>](#fn11)
+the document.[^11](#fn11)
 
 ## Document Formatting
 
@@ -910,7 +920,7 @@ blank line, followed by the first paragraph in the section, then an
 automated page break can fall between the heading and the text, even
 when the heading style has the Keep With Next formatting attribute set.
 The result is that your heading will be at the bottom of one page and
-the text it heads on the top of the next.[<sup>12</sup>](#fn12) If the
+the text it heads on the top of the next.[^12](#fn12) If the
 Spacing After method is used instead of a blank line, then Keep With
 Next will keep the heading and the content together, separated by the
 specified spacing. This concept is illustrated in the following figure.
@@ -934,7 +944,7 @@ heading and body text styles will change typeface accordingly because
 they’re based on Normal, but keep their own additional formatting. While
 this maybe sounds a bit confusing and intimidating at first, once you
 play with it a little bit I think you’ll find it makes
-sense.[<sup>13</sup>](#fn13)
+sense.[^13](#fn13)
 
 One good reason to care about styles is that if you’ve got a Word
 document of any length, you probably want to have sections or chapters,
@@ -972,7 +982,7 @@ masse* to alter the look of your document.
 One of Word’s features is the ability to have the definition of a style
 automatically update when you directly format a paragraph of that style.
 In my view, the Automatically Update feature of Style definition is
-***<u>not</u>***[<sup>14</sup>](#fn14) your
+***<u>not</u>***[^14](#fn14) your
 friend, *except* when you are first building the set of styles for a
 document template file. If Auto Update is checked, a minor formatting
 tweak in one place in your document can wreak havoc with the whole
@@ -1069,7 +1079,7 @@ it very much. If you routinely create documents of each of several
 different types, it may save you a lot of effort to create a template
 for each. There’s an excellent and very thorough article on how to
 create a template available at the Word “Most Valuable Professional” web
-site.[<sup>15</sup>](#fn15) Microsoft also has a bunch of templates that
+site.[^15](#fn15) Microsoft also has a bunch of templates that
 shows up when you do File, New; if you pick one of them you’ll get the
 opportunity to download it and add it to your Word setup. A well-crafted
 template definitely makes creation of consistently formatted documents
@@ -1186,50 +1196,15 @@ most useful computer application book I’d ever read.
 Happy writing.
 
 
-# Footnotes
-
-<div class="section footnotes" role="doc-endnotes">
-
------
 
     
 
 
 
-5.  
-    
-    <div id="fn5">
-    
-    Some would probably say I’m obsessive about using the keyboard. They
-    might well be right. And I have to concede that more recent versions
-    of Word have made it a little harder to stay a keyboard
-    fanatic.
-    
-    </div>
 
-6.  
-    
-    <div id="fn6">
-    
-    Having now developed some experience using Word on a virtual desktop
-    infrastructure (VDI), I think this is probably even more true, given
-    the visual lag that often occurs on the VDI. That said, I also find
-    I can now type considerably ahead of the VDI, which is not an
-    advantage.
-    
-    </div>
 
-7.  
-    
-    <div id="fn7">
-    
-    The contents of the ribbon change their appearance when the width of
-    the window changes, so the ribbon screenshots here are
-    approximations to what you will actually see; the important point is
-    that the functions are there and the accelerator keys don’t
-    change.
-    
-    </div>
+
+
 
 8.  
     
@@ -1308,4 +1283,6 @@ Happy writing.
     
     </div>
 
-</div>
+
+
+# Footnotes
