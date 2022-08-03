@@ -1125,8 +1125,8 @@ the ribbon background and pick “Customize the
 <u>R</u>ibbon …” or select Alt,
 <u>F</u>ile,
 Op<u>t</u>ions, Customize Ribbon). The details
-are explained in a Microsoft article [Customize the Ribbon in
-Office](https://support.office.com/en-us/article/Customize-the-ribbon-in-Office-00f24ca7-6021-48d3-9514-a31a460ecb31).
+are explained in a Microsoft article [*Customize the Ribbon in
+Office*](https://support.office.com/en-us/article/Customize-the-ribbon-in-Office-00f24ca7-6021-48d3-9514-a31a460ecb31).
 You can also easily assign your own keyboard shortcuts for instance
 access to functions you use frequently (the button to customize keyboard
 shortcuts is in the Customize Ribbon dialog (bottom left corner)).
