@@ -1,4 +1,7 @@
 theme: jekyll-theme-architect
 title: Some Thoughts on the Use of Word
 description: a concise guide to extracting maximal value from the <i>de facto</i> word processor
-markdown: redcarpet
+
+	extensions := parser.CommonExtensions | parser.Footnotes
+	parser := parser.NewWithExtensions(extensions)
+	output := markdown.ToHTML(mdText, parser, nil)
