@@ -586,7 +586,7 @@ complete list, an article at Laptop Magazine’s website explains how to
 shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9].
 
 [^9]: If you look carefully, one small tweak to the process in
-    the articlewill give you a list of all Word commands. Fair
+    the article will give you a list of all Word commands. Fair
     warning: on Word 2016 that results in a *77-page long* table
     of commands. By way of comparison, the keyboard shortcuts
     table is only 10 pages.
