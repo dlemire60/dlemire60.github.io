@@ -622,7 +622,7 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
 
   - Typing Control-Hyphen inserts a condition hyphen, which can clean up
     wrapping if a really long word (e.g.,
-    supercalifragilisticexpialidocious \[sp?\]) appears at the end of a
+    supercalifragilisticexpialidocious) appears at the end of a
     line.
 
   - Ctrl-K brings up a dialog for you to assign a hyperlink to the
@@ -630,16 +630,12 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
 
   - Ctrl-\<arrow key\> moves you by:
 
-<!-- end list -->
+    - Words forward and backward (left and right arrows)
 
-  - Words forward and backward (left and right arrows)
-
-  - Paragraphs forward and backward (up and down arrows); note that this
+    - Paragraphs forward and backward (up and down arrows); note that this
     works a little oddly in a bullet list, as Word seems to consider the
     bullet as its own paragraph separate from the text associated with
     the bullet
-
-<!-- end list -->
 
   - Ctrl-Shift-\<arrow key\> moves by word / paragraph, selecting the
     text as you go.
@@ -654,8 +650,6 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
 
 [^10]: This works in PowerPoint, too, although it’s just a little
     quirky there depending on whether / what text is selected.
-
-
 
 
   - Shift-F1 toggles visibility of the Reveal Formatting pane.
@@ -680,38 +674,33 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
     no need for selecting text, just have the cursor in the paragraph
     you want to move:
 
-<!-- end list -->
-
-  - Alt-Shift-Left/Right promotes and demotes paragraph headings (e.g.,
+    - Alt-Shift-Left/Right promotes and demotes paragraph headings (e.g.,
     Alt-Shift-Right Arrow would convert a paragraph with a “Heading 2”
     style into one with a “Heading 3” style). This works in any view,
     but is easiest to see and play with if you switch to Outline view
     temporarily.
 
-  - Alt-Shift-Up/Down change the order of paragraphs (e.g., Alt-Shift-Up
-    Arrow would move the current paragraph before the previous one).
-    Most of the time this works great; occasionally it gets glitchy (I
-    haven’t been able to work out a reason why or the pattern of when it
-    doesn’t do what I want/expect), so watch your results when you do
-    it. Use Undo (Ctrl-z) right away (multiple times if necessary) if
-    you didn’t get the results you intended and use cut/paste to do your
-    paragraph move instead (while you growl under your breath at
-    Microsoft).
-
-<!-- end list -->
+    - Alt-Shift-Up/Down change the order of paragraphs (e.g.,
+    Alt-Shift-Up Arrow would move the current paragraph before
+    the previous one). Most of the time this works great;
+    occasionally it gets glitchy (I haven’t been able to work out
+    a reason why or the pattern of when it doesn’t do what I
+    want/expect), so watch your results when you do it. Use Undo
+    (Ctrl-z) right away (multiple times if necessary) if you
+    didn’t get the results you intended and instead use cut/paste
+    to do your paragraph move instead (while you growl under your
+    breath at Microsoft).
 
   - There are several useful search and replace shortcuts:
 
-<!-- end list -->
-
-  - Control-F invokes the Find (search) dialog, which in Word 2016 shows
+    - Control-F invokes the Find (search) dialog, which in Word 2016 shows
     up in the Navigation Pane at the left (the pane appears when you
     type Control-F if it isn’t already displayed)
 
-  - Control-H invokes the Find and Replace dialog (in this case you get
+    - Control-H invokes the Find and Replace dialog (in this case you get
     the dialog, not the Navigation Pane)
 
-  - Control-Page Up / Page Down search forward and backward for the
+    - Control-Page Up / Page Down search forward and backward for the
     current search term if you moved the cursor out of the Navigation
     Pane search field. So, to find the first instance of what you’re
     looking for, hit Control-F, type in your search term, and hit Enter.
@@ -720,8 +709,6 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
     Control-Page Down. You can jump back to previous instances of the
     term with Control-Page Up, much more quickly than you can change
     your search direction from down to up in the find dialog.
-
-<!-- end list -->
 
   - If you have more than one document open, Ctrl-F6 key swaps among
     documents (and Shift‑Ctrl‑F6 does so in the reverse order).
@@ -734,19 +721,15 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
 
   - Keys that create paragraph / line / page breaks:
 
-<!-- end list -->
+    - Enter terminates a paragraph and creates a new one.
 
-  - Enter terminates a paragraph and creates a new one.
-
-  - Shift-Enter inserts a line break, but the text before and after the
+    - Shift-Enter inserts a line break, but the text before and after the
     line break are still the same paragraph, which is important to
     understand when applying paragraph formatting (this is discussed in
     more detail below).
 
-  - Ctrl-Enter inserts a page break, which (oddly) has the same
+    - Ctrl-Enter inserts a page break, which (oddly) has the same
     paragraph style as the paragraph you were in when you created it.
-
-<!-- end list -->
 
   - If you have text selected, you can quickly increase or reduce its
     font size using Ctrl‑Shift‑\> and Ctrl‑Shift‑\< (those are the
