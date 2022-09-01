@@ -771,8 +771,10 @@ than in terms of inserting a formatting code at a particular location in
 the document [^11].
 
 [^11]: I’m showing my age with this. Long ago, word processors
-    like WordPerfect and WordStar used in-line formatting codes.
-    That’s pretty much dinosaur thinking these days.
+    like [WordPerfect](https://en.wikipedia.org/wiki/WordPerfect)
+    and [WordStar](https://en.wikipedia.org/wiki/WordStar) used
+    in-line formatting codes. That’s pretty much dinosaur
+    thinking these days.
 
 
 ## Document Formatting
