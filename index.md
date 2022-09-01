@@ -595,16 +595,10 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)[^9
   - Don’t neglect the basic Windows shortcuts for cut, copy and paste,
     as these alone can save a lot of time:
 
-<!-- end list -->
-
-  - Ctrl-x cuts the selected text to the clipboard.
-
-  - Ctrl-c copies the selected text to the clipboard.
-
-  - Ctrl-v pastes the clipboard to the document, replacing any text
+      - Ctrl-x cuts the selected text to the clipboard.
+      - Ctrl-c copies the selected text to the clipboard.
+      - Ctrl-v pastes the clipboard to the document, replacing any text
     that’s selected.
-
-<!-- end list -->
 
   - Ctrl-z is undo / Ctrl-y is redo (as in, reverse the undo operation
     just performed).
