@@ -1013,13 +1013,13 @@ And this screen clip illustrates these concepts as a set: the document in draft 
 
 If the look of the various headings isn’t your cup of tea, all of
 it can be changed for the whole document by altering the font,
-paragraph, and other formatting attributes *of the style*. For
-example, the Heading 1 style in this document has had its font
-changed to Cooper Black, and the color changed to 80% gray. For
-fun, go change the heading style and you’ll see all the section
-headings change accordingly. There are also some built-in design
-themes on the Design ribbon that will adjust the paragraph styles
-*en masse* to alter the look of your document.
+paragraph, and other formatting attributes *of the style*.  For
+fun, create some content and apply the default heading styles at
+various levels. Then change the formatting of a heading style and
+you’ll see all the section headings change accordingly. There are
+also some built-in design themes on the Design ribbon that will
+adjust the paragraph styles *en masse* to alter the look of your
+document.
 
 One of Word’s features is the ability to have the definition of a style
 automatically update when you directly format a paragraph of that style.
