@@ -814,6 +814,7 @@ to the right places in current versions of Word.)
 |---|---|---|
 |  - Margins<br> - Page Orientation<br> - Page Size<br> - Columns<br> - Line Numbering<br> - Section Breaks<br> - Vertical Alignment<br>(in full Page Setup dialog) |  - Headers and Footers<br> - Page Numbers |  - Page Borders<br> - Background Color<br> - Watermarks<br> - Predefined Document Styles |
 
+<br>
 
 So, if you want your new document’s title, date, version, etc.,
 to be vertically centered on the front page you’d set that using
