@@ -980,32 +980,42 @@ and subsections, and maybe a table of contents. To automate this, *by
 far* the easiest way is to format your section headings with
 appropriately defined Word styles.
 
-An important related concept: bring up the paragraph formatting dialog
-(Alt, H, PG) and take a look at the Indents and Spacing tab. In the
-upper corner there’s a control labeled
-“<u>O</u>utline level”. Each paragraph is
-either associated with a level of document structure from 1 to 9 or is
-identified as “Body Text”. So these outline level settings are used to
-identify section headings from most significant (Level 1) to least
-(Level 9). Every paragraph that’s not a heading should have an outline
-level of body text. (By the way, if some of your text that isn’t a
-heading is showing up in the table of contents or navigation pane, you
-need to go fix that paragraph’s outline level).
+An important related concept is **outline level**; to see this
+bring up the paragraph formatting dialog (Alt, H, PG) and take a
+look at the Indents and Spacing tab. In the upper corner there’s
+a control labeled “<u>O</u>utline level”. Every paragraph in a
+document is either associated with a level of document structure
+from 1 to 9 or is identified as “Body Text”. The outline level
+settings are used to identify section headings from most
+significant (Level 1) to least (Level 9). Every paragraph that’s
+not a heading should have an outline level of body text. (By the
+way, if some of your text that isn’t a heading is showing up in
+the table of contents or navigation pane, you need to go fix that
+paragraph’s outline level).
 
-Word’s built-in Heading styles make this easy. Heading styles are your
-friend: by formatting your section headings with the Heading 1 through
-Heading 9 styles, as appropriate, they give a document structure, and
-make the navigation pane and the outline view useful. They also
-facilitate section numbering, table of contents creation, and the
-insertion of automated cross-references between sections. If the look of
-the various headings isn’t your cup of tea, all of it can be changed for
-the whole document by altering the font, paragraph, and other formatting
-attributes *of the style*. For example, the Heading 1 style in this
-document has had its font changed to Cooper Black, and the color changed
-to 80% gray. For fun, go change the heading style and you’ll see all the
-section headings change accordingly. There are also some built-in design
-themes on the Design ribbon that will adjust the paragraph styles *en
-masse* to alter the look of your document.
+![](img/outline-levels.png)
+
+Word’s built-in **Heading** styles make this easy. Heading styles
+are your friend: by formatting your section headings with the
+Heading 1 through Heading 9 styles, as appropriate, they give a
+document structure, and make the navigation pane and the outline
+view useful. They also facilitate section numbering, table of
+contents creation, and the insertion of automated
+cross-references between sections. This dialog box shows the
+default settings for the Heading 1 style, with its Outline Level
+highlighted. 
+
+![](img/heading-1-style.png)
+
+If the look of the various headings isn’t your cup of tea, all of
+it can be changed for the whole document by altering the font,
+paragraph, and other formatting attributes *of the style*. For
+example, the Heading 1 style in this document has had its font
+changed to Cooper Black, and the color changed to 80% gray. For
+fun, go change the heading style and you’ll see all the section
+headings change accordingly. There are also some built-in design
+themes on the Design ribbon that will adjust the paragraph styles
+*en masse* to alter the look of your document.
 
 One of Word’s features is the ability to have the definition of a style
 automatically update when you directly format a paragraph of that style.
