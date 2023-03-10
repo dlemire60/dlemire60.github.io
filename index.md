@@ -954,7 +954,7 @@ specified spacing. This concept is illustrated in the following figure.
 
 ## Document Structure: A Key Use of Styles
 
-What is a style? A paragraph style in Word establishes virtually every
+What is a style? A *paragraph style* in Word establishes virtually every
 aspect of paragraph formatting, either directly (that is, because you
 set it in the style), or indirectly (because it’s defined in the style
 that the style you’re specifying is “based on”). So, for example, the
@@ -971,7 +971,7 @@ this maybe sounds a bit confusing and intimidating at first, once you
 play with it a little bit I think you’ll find it makes
 sense [^13].
 
-[^13]: I have wished for a tool that would print me out a tree of
+[^13]: I have often wished for a tool that would print me out a tree of
     how styles depend on one another.
 
 One good reason to care about styles is that if you’ve got a Word
