@@ -1007,6 +1007,10 @@ highlighted.
 
 ![](img/heading-1-style.png)
 
+And this screen clip illustrates these concepts as a set: the document in draft view with the style pane visible shows the styles applied and the resulting formatting, and the Navigation pane illustrates how Word uses the Outline Level of the styles to define document structure.
+
+![](img/level-structure-illustration.png)
+
 If the look of the various headings isn’t your cup of tea, all of
 it can be changed for the whole document by altering the font,
 paragraph, and other formatting attributes *of the style*. For
