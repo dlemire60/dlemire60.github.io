@@ -155,11 +155,11 @@ of the number of times I’ve been asked how I did something so
 quickly and "I'm using the keyboard" is almost always the answer.
 Sadly many people's eyes glaze over at that point, but I"m
 encouraging you to persevere. Apparently my brain is well-suited
-to absorbing keyboard shortcuts, but I really think most folks
-can benefit from them. Using the keyboard is also more *accurate*
-than mousing around, so it can also save you time by keeping you
-from wasting time using the mouse, not quite getting what you
-want, and then having to backtrack and try again.[^6]
+to absorbing [keyboard shortcuts](#some-really-really-handy-shortcut-keys), but I really think most folks can benefit from them. Using the keyboard is
+also more *accurate* than mousing around, so it can also save you
+time by keeping you from wasting time using the mouse, not quite
+getting what you want, and then having to backtrack and try
+again.[^6]
 
 
 [^5]: Some would probably say I’m obsessive about using the
