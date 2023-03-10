@@ -805,30 +805,15 @@ various aspects of document/section formatting when you need
 them.
 
 > (NOTE: the following figure needs updating, the File, Page
-Setup direction is wrong, but the text below points to the right
-places in current versions of Word.)
+Setup direction is wrong, but the table below the figure points
+to the right places in current versions of Word.)
 
 ![](img/doc_formatting.png)
 
-  - **Layout Tab**
-      - Margins
-      - Page Orientation
-      - Page Size
-      - Columns
-      - Line Numbering
-      - Section Breaks
-      - Vertical Alignment (in full Page Setup dialog under Page Setup
-        group)
+| **Layout Tab** | **Insert Tab** | **Design Tab** |
+|---|---|---|
+|  - Margins<br> - Page Orientation<br> - Page Size<br> - Columns<br> - Line Numbering<br> - Section Breaks<br> - Vertical Alignment<br>(in full Page Setup dialog) |  - Headers and Footers<br> - Page Numbers |  - Page Borders<br> - Background Color<br> - Watermarks<br> - Predefined Document Styles |
 
-  - **Insert Tab**
-      - Headers and Footers
-      - Page Numbers
-
-  - **Design Tab**
-      - Page Borders
-      - Background Color
-      - Watermarks
-      - Predefined document styles
 
 So, if you want your new document’s title, date, version, etc.,
 to be vertically centered on the front page you’d set that using
