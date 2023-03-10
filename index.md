@@ -2,18 +2,21 @@
 
 ## a concise guide to extracting maximal value from the *de facto* word processor
 
-Microsoft Word is the *de facto* writing tool. I like to learn the “ins
-and outs” of the tools I use heavily, and wanted to share things I’ve
-found helpful in using Word effectively. This paper captures various
-thoughts, ideas, and suggestions, as well as pointers for digging much
-deeper than this and really becoming a Word power user, if you’re so
-inclined. This is presented in the spirit of “you won’t use it if you
-don’t know it’s there”. These ideas are applicable to all document
-types, but by their nature the benefit of applying them increases as
-document size, complexity, and editing time increase. I find it
-beneficial, however, to make a habit of using styles and other good
-formatting practices even for very short documents because it makes
-things very predictable.
+Microsoft Word is the *de facto* writing tool. I like to learn
+the “ins and outs” of the tools I use heavily, and wanted to
+share things I’ve found helpful in using Word effectively. This
+paper captures various thoughts, ideas, and suggestions, as well
+as pointers for digging much deeper than this and really becoming
+a Word power user, if you’re so inclined. This is presented in
+the spirit of “you won’t use it if you don’t know it’s there”.
+These ideas are applicable to all document types, but by their
+nature the benefit of applying them increases as document size,
+complexity, and editing time increase. I find it beneficial,
+however, to make a habit of using styles and other good
+formatting practices even for very short documents because it
+makes things very predictable. It's also the case that a number
+of these concepts aren't specific to Word and can be applied, for
+example, in Google Docs.
 
 I’m using a current version of Word 2016 on Windows 10 (the whole Office
 365 thing has made "version" a bit ambiguous, IMO). I’ve built up the
@@ -144,17 +147,19 @@ ribbon.
 
 # Keyboard Accelerators & Shortcuts
 
-While most folks I’ve watched rely heavily on the mouse, I use the
-keyboard. A lot. It’s probably more accurate to state that I use the
-keyboard for everything I possibly can [^5]. I like the
-keyboard because it speeds things up enormously; I’ve lost track of the
-number of times I’ve been asked how I did something so quickly and the
-keyboard is almost always how. Apparently my brain is well-suited to
-absorbing keyboard shortcuts, but I really think most folks can benefit
-from them. Using the keyboard is also more *accurate* than mousing
-around, so it can also save you time by keeping you from wasting time
-using the mouse, not quite getting what you want, and then having to
-backtrack and try again.[^6]
+While most folks I’ve watched rely heavily on the mouse, I use
+the keyboard. A lot. It’s probably more accurate to state that I
+use the keyboard for everything I possibly can [^5]. I like the
+keyboard because it speeds things up enormously; I’ve lost track
+of the number of times I’ve been asked how I did something so
+quickly and "I'm suing the keyboard is almost" always the answer.
+Sadly many people's eyes glaze over at that point, but I"m
+encouraging you to persevere. Apparently my brain is well-suited
+to absorbing keyboard shortcuts, but I really think most folks
+can benefit from them. Using the keyboard is also more *accurate*
+than mousing around, so it can also save you time by keeping you
+from wasting time using the mouse, not quite getting what you
+want, and then having to backtrack and try again.[^6]
 
 
 [^5]: Some would probably say I’m obsessive about using the
@@ -223,13 +228,15 @@ see when using Word 2016. Since the ribbon interface was added in Word
 those I’ve put the letter in parenthesis; for example:
 Vie<u>w</u>, Draft (<u>E</u>).
 
-There are also a lot of pre-defined keyboard shortcuts wired into Word
-by default (you can change any of these, by the way, or add your own –
-see the section later on customiza­tion). Ribbon items that have
-pre-defined shortcut keys display them in the tool tip if you hover the
-mouse over the icon for that item (e.g., hover over the Find function on
-the Home ribbon menu, you’ll get a tool tip that identifies Ctrl+F as
-the keyboard shortcut for the Find function).
+There are also a lot of pre-defined keyboard shortcuts wired into
+Word by default (you can change any of these, by the way, or add
+your own – see the section later on
+[customiza­tion](#customizing-word)). Ribbon items that have
+pre-defined shortcut keys display them in the tool tip if you
+hover the mouse over the icon for that item (e.g., hover over the
+Find function on the Home ribbon menu, you’ll get a tool tip that
+identifies Ctrl+F as the keyboard shortcut for the Find
+function).
 
 A technique I’ve found useful for memorizing shortcut keys is this: find
 the function you want on the ribbon and hover the mouse to get the
@@ -270,7 +277,7 @@ particularly recommend:
     ![](img/StatusBarOptions.png)
 
   - Word stores most of its defaults, including the formatting of a
-    “blank document” in a template file called NORMAL.DOTXM; with Word
+    “blank document” in a template file called NORMAL.DOTX; with Word
     2016 on Windows 7, this file is stored under
     C:\\Users\\\<username\>\\AppData\\Roaming\\Microsoft\\Templates. If
     you want a to change the look of the blank document you get from
@@ -283,26 +290,26 @@ particularly recommend:
     
     Note that the AppData folder in Windows has the “Hidden” attribute
     set, which might make it a little hard to find. You can type in the
-    path, or you can change the settings in Windows Explorer so that
+    path, or you can change the View settings in Windows Explorer so that
     Hidden and System folders are visible (I suggest doing the latter).
 
 # Why I Use Draft View
 
 OK, this might be a soapbox thing, too. I use Draft view (Alt,
-Vie<u>w</u>, Draft
-(<u>E</u>)) probably 75+% of the time when using
-Word and I think people are missing out by not using it, so here’s some
-of the whys and wherefores of Draft view:
+Vie<u>w</u>, Draft (<u>E</u>)) probably 75+% of the time when
+using Word and I think people are missing out by not using it, so
+here’s some of the whys and wherefores of Draft view:
 
-  - Draft view is often a more efficient way to work on a document than
-    Page Layout / Print Layout view: you don’t waste screen space on
-    page headers and footers, you can really concentrate on the content,
-    etc. Many people seem resistant to Draft view, preferring to see
-    exactly the page layout. My thinking is that if I’m using
-    well-constructed styles, etc., page layout pretty much takes care of
-    itself and I can defer little tweaks to fix it up until the time I’m
-    close to caring about a printed version; that’s when Print Layout
-    view comes into play.
+  - Draft view is often a more efficient way to work on a
+    document than Page Layout / Print Layout view: you don’t
+    waste screen space on page headers and footers, you can
+    really concentrate on the content, etc. Many people seem
+    resistant to Draft view, preferring to see exactly the page
+    layout. My thinking is that if I’m using 
+    [well-constructed styles](#document-structure-a-key-use-of-styles), etc., page layout pretty much takes care of itself and I can defer
+    little tweaks to fix it up until the time I’m close to caring
+    about a printed version; that’s when Print Layout view comes
+    into play.
 
   - If you’re using Draft view, you can also turn on the style view
     column on the left-hand side. To get this, select
