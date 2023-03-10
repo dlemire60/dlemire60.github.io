@@ -814,6 +814,33 @@ to the right places in current versions of Word.)
 |---|---|---|
 |  - Margins<br> - Page Orientation<br> - Page Size<br> - Columns<br> - Line Numbering<br> - Section Breaks<br> - Vertical Alignment<br>(in full Page Setup dialog) |  - Headers and Footers<br> - Page Numbers |  - Page Borders<br> - Background Color<br> - Watermarks<br> - Predefined Document Styles |
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7btt">Layout Tab</th>
+    <th class="tg-7btt">Insert Tab</th>
+    <th class="tg-7btt">Design Tab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"> - Margins<br> - Page Orientation<br> - Page Size<br> - Columns<br> - Line Numbering<br> - Section Breaks<br> - Vertical Alignment<br>(in full Page Setup dialog)</td>
+    <td class="tg-0pky"> - Headers and Footers<br> - Page Numbers</td>
+    <td class="tg-0pky"> - Page Borders<br> - Background Color<br> - Watermarks<br> - Predefined Document Styles</td>
+  </tr>
+</tbody>
+</table>
+
 <br>
 
 So, if you want your new document’s title, date, version, etc.,
