@@ -1039,12 +1039,14 @@ changing willy-nilly.
     really mean it\!
 
 
-Learning about paragraph styles is *really* worthwhile. An excellent
-reference is a column by Woody Leonhard called [*Word Styles from the
-Beginning*](https://office-watch.com/2015/word-styles-from-the-beginning/).
-Microsoft also has some videos on the topic on page about [Using Styles
-in
-Word](https://support.office.com/en-US/Article/Using-Styles-in-Word-9db4c0f4-2754-4294-9758-c14a0abd8cfa).
+Learning about paragraph styles is *really* worthwhile. An
+excellent reference is a column by Woody Leonhard called [*Get
+into the basics of Styles in
+Word*](https://office-watch.com/2015/word-styles-from-the-beginning/).
+Microsoft also has some videos on the topic on page about [Using
+Styles in
+Word](https://support.office.com/en-US/Article/Using-Styles-in-Word-9db4c0f4-2754-4294-9758-c14a0abd8cfa)
+(video and transcript).
 
 A few other appearance things are handled by special styles. I mentioned
 the Line Number style in the section on document formatting. Another one
