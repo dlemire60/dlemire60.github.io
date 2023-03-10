@@ -152,7 +152,7 @@ the keyboard. A lot. It’s probably more accurate to state that I
 use the keyboard for everything I possibly can [^5]. I like the
 keyboard because it speeds things up enormously; I’ve lost track
 of the number of times I’ve been asked how I did something so
-quickly and "I'm suing the keyboard is almost" always the answer.
+quickly and "I'm using the keyboard" is almost always the answer.
 Sadly many people's eyes glaze over at that point, but I"m
 encouraging you to persevere. Apparently my brain is well-suited
 to absorbing keyboard shortcuts, but I really think most folks
