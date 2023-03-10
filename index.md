@@ -514,6 +514,8 @@ at the cursor, including font, paragraph, and section settings. The
 paragraph list also indicates what paragraph style has been applied,
 making it easy to see the style and outline level of the current text.
 
+![](img/reveal-formatting-pane.png)
+
 *Search for Formatting*. When you search (Ctrl-F) Word will show the
 Navigation Pane and place the cursor in the Search Document field. At
 the right edge of that field is a magnifier icon and a tiny triangle.
