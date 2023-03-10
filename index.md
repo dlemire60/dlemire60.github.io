@@ -837,7 +837,7 @@ to the right places in current versions of Word.)
 </tbody>
 </table>
 
-
+<br>
 
 So, if you want your new document’s title, date, version, etc.,
 to be vertically centered on the front page you’d set that using
