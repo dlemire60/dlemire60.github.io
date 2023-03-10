@@ -213,7 +213,7 @@ Note that you must tap the Alt key and type the ribbon selection letter
 even to get to the functions on the currently displayed ribbon. While
 that might seem a bit silly, it has the advantage that the key sequence
 to reach a particular function is always the same, regardless of what
-ribbon is currently displayed. This lets you develop muscle memory for
+ribbon is currently displayed. This lets you develop "muscle memory" for
 the things you use a lot.
 
 Some accelerators are hard to see: if the accelerator in a dialog is the
